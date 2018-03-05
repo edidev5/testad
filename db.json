@@ -1,5 +1,14 @@
 {
-    "adId": 1,
-    "imageUrl": "https://picsum.photos/320/50/?random",
-    "linkUrl": "www.sabafon.com"
+    "ads": [
+        {
+            "adId": 1,
+            "imageUrl": "https://picsum.photos/320/50/?random",
+            "linkUrl": "www.sabafon.com"
+        },
+        {
+            "adId": 2,
+            "imageUrl": "https://picsum.photos/320/50/?random",
+            "linkUrl": "www.edisimo.com"
+        }
+    ]
 }
